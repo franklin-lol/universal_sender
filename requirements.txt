@@ -1,0 +1,4 @@
+pyrogram==2.0.106
+pandas>=2.1.0
+openpyxl>=3.1.0
+TgCrypto>=1.2.0
