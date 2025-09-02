@@ -45,7 +45,7 @@ pip install -r requirements.txt
 python universal_sender.py
 ```
 
-### Создание Telegram сессии (только первый раз)
+### Создание Telegram сессии (можно делать из GUI, либо отдельным скриптом)
 ```bash
 python make_pyrogram_session.py
 ```
