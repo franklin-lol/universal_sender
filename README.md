@@ -35,7 +35,7 @@
 
 ```bash
 # 1. Клонируйте репозиторий
-git clone https://github.com/yourusername/universal-sender.git
+git clone https://github.com/franklin-lol/universal-sender.git
 cd universal-sender
 
 # 2. Установите зависимости
