@@ -35,8 +35,8 @@
 
 ```bash
 # 1. Клонируйте репозиторий
-git clone https://github.com/franklin-lol/universal-sender.git
-cd universal-sender
+git clone https://github.com/franklin-lol/universal_sender.git
+cd universal_sender
 
 # 2. Установите зависимости
 pip install -r requirements.txt
