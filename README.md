@@ -224,3 +224,6 @@ python universal_sender.py
 <p align="center">
   Made with ❤️ for the community
 </p>
+# #   L i c e n s e  
+ M I T  
+ 
